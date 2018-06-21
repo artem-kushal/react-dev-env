@@ -19,6 +19,7 @@
         "jsx-a11y/no-static-element-interactions": "none",
         "jsx-a11y/click-events-have-key-events": "none",
         "import/no-unresolved": "none",
-        "import/extensions": "never"
+        "import/extensions": "never",
+        "linebreak-style": "off"
     }
 }

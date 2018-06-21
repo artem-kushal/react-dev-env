@@ -19,3 +19,7 @@ $ npm run prod
     "csscomb.preset": "yandex"
 }
 ```
+
+### Integrate code auto formatting in your editor
+
+https://prettier.io/docs/en/editors.html

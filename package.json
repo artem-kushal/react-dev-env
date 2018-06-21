@@ -44,10 +44,15 @@
         "husky": "^0.14.3",
         "node-sass": "^4.7.2",
         "postcss-loader": "^2.0.9",
+        "prettier-eslint": "^8.8.1",
         "sass-loader": "^6.0.6",
         "style-loader": "^0.19.0",
         "webpack": "^3.8.1",
         "webpack-dev-server": "^2.9.5"
     },
-    "browserslist": ["safari > 7", "ie > 10", "ff > 20"]
+    "browserslist": [
+        "safari > 7",
+        "ie > 10",
+        "ff > 20"
+    ]
 }
